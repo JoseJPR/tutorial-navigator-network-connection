@@ -2,7 +2,10 @@
   "name": "tutorial-javascript-input-type-file-control",
   "description": "Check with JavaScript the status of the internet connection from your web application and show the user a personalized message.",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ."
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/JoseJPR/tutorial-javascript-input-type-file-control"
@@ -14,9 +17,6 @@
   ],
   "author": "José J. Pérez Rivas <me@josejpr.com>",
   "license": "MIT",
-  "scripts": {
-    "start": "node app.js"
-  },
   "dependencies": {
     "express": "^4.16.4"
   }
