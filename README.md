@@ -36,7 +36,7 @@ npm run start
 
 Open: http://localhost:3000
 
-## 🎮 How to include and work with this library in my project?
+## 🎮 How to include and work with this library in your project?
 
 ### 1️⃣ Include the library in your project.
 Copy the "check-connection.js" file into your project.
