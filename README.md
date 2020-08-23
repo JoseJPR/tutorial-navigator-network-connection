@@ -16,7 +16,7 @@
   <br />
 </p>
 
-![JavaScript The Network Information](src/screen.gif)
+![JavaScript The Network Information](assets/screen.gif)
 
 ## 📐 How to work with this project
 
