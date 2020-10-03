@@ -35,8 +35,8 @@ export default class checkConnection {
 
   /**
    * @name removeClass
-   * @param {string} name The name of the css class that you want to remove.
    * @description This method remove css class of the html container element.
+   * @param {string} name The name of the css class that you want to remove.
    */
   removeClass (name){
     this.contentMessage.classList.remove(name);
@@ -44,8 +44,8 @@ export default class checkConnection {
 
   /**
    * @name addClass
-   * @param {string} name The name of the css class that you want to add.
    * @description This method add css class to the html container element.
+   * @param {string} name The name of the css class that you want to add.
    */
   addClass (name) {
     this.contentMessage.classList.add(name);
@@ -53,9 +53,9 @@ export default class checkConnection {
 
   /**
    * @name setMessage
-   * @param {string} message The message that you want show.
    * @description This method set the visual message into the
    *              html container element.
+   * @param {string} message The message that you want show.
    */
   setMessage (message) {
     this.contentMessage.innerHTML = message;
